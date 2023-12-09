@@ -1,4 +1,4 @@
-# The start of my web development journey through 'The Odin project!' #
+# The start of my web development journey through </br> 'The Odin project!' #
 ## I will be documenting my journey here! ##
 </br>
 
